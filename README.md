@@ -47,3 +47,8 @@
 Если закрытых проектов < 15 и рейтинг выше среднего – 10-15%
 
 Если закрытых проектов >= 15 и рейтинг выше среднего – 15-20%
+
+Ссылка на дашборд:
+https://public.tableau.com/app/profile/svetlana3581/viz/Bonus_calculation/Dashboard1?publish=yes
+
+![tableau_dash](https://user-images.githubusercontent.com/128723843/227876690-4cbdb950-84db-4285-91ee-48ebdbd52705.png)
